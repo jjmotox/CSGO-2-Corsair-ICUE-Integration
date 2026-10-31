@@ -1,3 +1,5 @@
+I am not a programer and this was made with claude code. But it works. 
+
 Here’s everything CS2 Bomb Lights v1.6 does.
 
 Lighting effects
